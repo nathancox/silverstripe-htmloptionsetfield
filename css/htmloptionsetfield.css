@@ -1,0 +1,51 @@
+.htmloptionset li {
+	margin-right:5px;
+	display:inline-block;
+}
+.htmloptionset li label {
+	padding:5px;
+	text-align:center;
+	background-position: center top;
+	background-repeat:no-repeat;
+	border-radius: 4px 4px 4px 4px;
+	display:block;
+	opacity:0.6;
+	cursor:pointer;
+}
+
+
+
+
+	.htmloptionset label:hover,
+	.htmloptionset label:active {
+		
+		opacity:1;
+	}
+	
+	.htmloptionset li.checked {
+		background:#BEEBFF;
+	}
+	.htmloptionset li.checked label {
+		opacity:1;
+	}
+	
+
+
+.htmloptionset li input {
+	display:none;
+}
+
+
+/*
+#Form_EditForm_ColumnLayout .val4 label {
+	background-image:url('../images/columns-4.png');
+}
+
+#Form_EditForm_ColumnLayout .val22 label {
+	background-image:url('../images/columns-2-2.png');
+}
+
+#Form_EditForm_ColumnLayout .val31 label {
+	background-image:url('../images/columns-3-1.png');
+}
+*/

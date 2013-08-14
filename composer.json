@@ -1,0 +1,15 @@
+{
+	"name": "nathancox/htmloptionsetfield",
+	"description": "An optionset field for the CMS that uses custom HTML in place of the radio button and label",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "formfield"],
+	"authors": [
+		{
+			"name": "Nathan Cox",
+			"email": "nathan@flyingmonkey.co.nz"
+		}
+	],
+	"require": {
+		"silverstripe/framework": ">=3.0"
+	}
+}
