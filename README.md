@@ -59,7 +59,7 @@ Example code:
 		}
 
 		$fields->addFieldtoTab('Root.Settings', $iconField = new HTMLOptionsetField(
-			'Icon', 
+			'Icon',
 			'Tree icon',
 			$options
 		));
