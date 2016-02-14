@@ -18,17 +18,17 @@
 
 	.htmloptionset label:hover,
 	.htmloptionset label:active {
-		
+
 		opacity:1;
 	}
-	
+
 	.htmloptionset li.checked {
 		background:#BEEBFF;
 	}
 	.htmloptionset li.checked label {
 		opacity:1;
 	}
-	
+
 
 
 .htmloptionset li input {
