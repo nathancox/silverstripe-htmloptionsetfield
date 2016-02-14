@@ -1,6 +1,7 @@
 {
 	"name": "nathancox/htmloptionsetfield",
 	"description": "An optionset field for the CMS that uses custom HTML in place of the radio button and label",
+	"license": "BSD-3-Clause",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "formfield"],
 	"authors": [
